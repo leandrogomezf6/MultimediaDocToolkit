@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.multimediadoctoolkit.multimedia","l":"ImageToolkit"},{"p":"com.multimediadoctoolkit.metadata","l":"MetadataToolkit"},{"p":"com.multimediadoctoolkit.docs","l":"PDFToolkit"}];updateSearchResults();
